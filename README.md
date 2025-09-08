@@ -1,2 +1,2 @@
 # student-portal-demo
-student portal demo  mi
+student portal demo 
